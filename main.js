@@ -22,6 +22,7 @@ let countDown = () => {
   hoursItem.innerHTML = hours;
   minItem.innerHTML = min;
   secItem.innerHTML = sec;
+  
 }
 
 countDown()
